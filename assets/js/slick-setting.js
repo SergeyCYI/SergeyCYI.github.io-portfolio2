@@ -5,7 +5,7 @@ $(document).ready(function(){
         dots: true,
         speed: 1000,
         easing: 'ease',
-        infinit: false,
+        infinit: true,
         autoplay: false,
         autoplaySpeed: 500,
         pauseOnFocus: true,
